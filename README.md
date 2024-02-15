@@ -1,3 +1,6 @@
+### Prerequisite labs:
+https://github.com/gabe-IT/Azure-Domain-Controller-Setup
+
 # File Share Permissions Lab
 
 ## Create Sample File Shares with Various Permissions
